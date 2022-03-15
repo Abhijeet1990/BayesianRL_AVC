@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Code is the property of Shubham Subhnil. The allgorithm is referred from [see GitHub readme.md]
+Code adopted from Shubham Subhnil. The algorithm is referred from [see GitHub readme.md]
 Please use the repository link and Author's name for presenting the code in academic and scientific works.
-
-@author: Shubham Subhnil
 """
 
 
