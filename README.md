@@ -1,4 +1,4 @@
-# BayesianRL_AVC
+# BayesianRL for Automatic Voltage Control
 
 Voltage control is crucial to large-scale power system reliable operation, as timely reactive power support can help prevent widespread outages. However, there is currently no built in mechanism for power systems to ensure that the voltage control objective to maintain reliable operation will survive or sustain the uncertainty caused under adversary presence. Hence, this work introduces a Bayesian Reinforcement Learning (BRL) approach for power system control problems, with focus on sustained voltage control under uncertainty in a cyber-adversarial environment. This work proposes a data-driven BRL-based approach for automatic voltage control by formulating and solving a Partially-Observable Markov Decision Problem (POMDP), where the states are partially observable due to cyber intrusions. The techniques are evaluated on the WSCC and IEEE 14 bus systems. Additionally, BRL techniques assist in automatically finding a threshold for exploration and exploitation in various RL techniques.
 
